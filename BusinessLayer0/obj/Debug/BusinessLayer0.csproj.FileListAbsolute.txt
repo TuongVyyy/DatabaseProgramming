@@ -1,0 +1,9 @@
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\bin\Debug\BusinessLayer0.dll
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\bin\Debug\BusinessLayer0.pdb
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\obj\Debug\BusinessLayer0.csproj.AssemblyReference.cache
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\obj\Debug\BusinessLayer0.csproj.CoreCompileInputs.cache
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\obj\Debug\BusinessLayer0.dll
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\obj\Debug\BusinessLayer0.pdb
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\bin\Debug\BusinessLayer0.dll
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\bin\Debug\BusinessLayer0.pdb
+F:\OU COURSES\LTCSDL\CoffeeShop_Demo\BusinessLayer0\obj\Debug\Business.76A72929.Up2Date

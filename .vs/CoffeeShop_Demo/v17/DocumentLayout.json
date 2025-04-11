@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|f:\\ou courses\\ltcsdl\\coffeeshop_demo\\presentationlayer\\frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\presentationlayer\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCBAD6D4-3FFC-4FC3-824B-ED83A835B333}|TransferObject\\TransferObject.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\transferobject\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCBAD6D4-3FFC-4FC3-824B-ED83A835B333}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8B4B87-A5BC-4704-B99F-70A5B6DC1EE3}|DataLayer0\\DataLayer0.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\datalayer0\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8B4B87-A5BC-4704-B99F-70A5B6DC1EE3}|DataLayer0\\DataLayer0.csproj|solutionrelative:datalayer0\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8B4B87-A5BC-4704-B99F-70A5B6DC1EE3}|DataLayer0\\DataLayer0.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\datalayer0\\supplierdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8B4B87-A5BC-4704-B99F-70A5B6DC1EE3}|DataLayer0\\DataLayer0.csproj|solutionrelative:datalayer0\\supplierdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\presentationlayer\\frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B898E17-9C97-4A05-83AD-2271E0C01291}|BusinessLayer0\\BusinessLayer0.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\businesslayer0\\supplierbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B898E17-9C97-4A05-83AD-2271E0C01291}|BusinessLayer0\\BusinessLayer0.csproj|solutionrelative:businesslayer0\\supplierbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\presentationlayer\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF7409A-CBBD-40D2-A5D5-02821250966D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmSupplier.cs",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\FrmSupplier.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FrmSupplier.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\FrmSupplier.cs",
+              "RelativeToolTip": "PresentationLayer\\FrmSupplier.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:01:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplierDL.cs",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\DataLayer0\\SupplierDL.cs",
+              "RelativeDocumentMoniker": "DataLayer0\\SupplierDL.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\DataLayer0\\SupplierDL.cs*",
+              "RelativeToolTip": "DataLayer0\\SupplierDL.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:28:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\DataLayer0\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer0\\DataProvider.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\DataLayer0\\DataProvider.cs*",
+              "RelativeToolTip": "DataLayer0\\DataProvider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:20:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSupplier.cs [Design]",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\FrmSupplier.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FrmSupplier.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\FrmSupplier.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FrmSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:56:45.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\TransferObject\\Supplier.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Supplier.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\TransferObject\\Supplier.cs",
+              "RelativeToolTip": "TransferObject\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:30:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeShop.cs [Design]",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CoffeeShop.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\CoffeeShop.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\CoffeeShop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:55:06.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierBL.cs",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\BusinessLayer0\\SupplierBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer0\\SupplierBL.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\BusinessLayer0\\SupplierBL.cs",
+              "RelativeToolTip": "BusinessLayer0\\SupplierBL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:46:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeShop.cs",
+              "DocumentMoniker": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CoffeeShop.cs",
+              "ToolTip": "F:\\OU COURSES\\LTCSDL\\CoffeeShop_Demo\\PresentationLayer\\CoffeeShop.cs",
+              "RelativeToolTip": "PresentationLayer\\CoffeeShop.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:45:31.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
