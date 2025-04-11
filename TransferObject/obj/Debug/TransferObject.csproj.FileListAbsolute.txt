@@ -1,8 +1,0 @@
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\TransferObject\bin\Debug\TransferObject.dll
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\TransferObject\bin\Debug\TransferObject.pdb
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\TransferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\TransferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\TransferObject\obj\Debug\TransferObject.dll
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\TransferObject\obj\Debug\TransferObject.pdb
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\bin\Debug\TransferObject.dll
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\bin\Debug\TransferObject.pdb

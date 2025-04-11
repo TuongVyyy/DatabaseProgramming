@@ -1,7 +1,0 @@
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\bin\Debug\DataLayer0.dll
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\bin\Debug\DataLayer0.pdb
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\DataLayer0\obj\Debug\DataLayer0.csproj.AssemblyReference.cache
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\DataLayer0\obj\Debug\DataLayer0.csproj.CoreCompileInputs.cache
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\DataLayer0\obj\Debug\DataLayer0.csproj.Up2Date
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\DataLayer0\obj\Debug\DataLayer0.dll
-F:\OU COURSES\LTCSDL\CoffeeShop_Demo\DataLayer0\obj\Debug\DataLayer0.pdb
