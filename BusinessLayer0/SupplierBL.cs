@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using TransferObject;
@@ -28,6 +29,17 @@ namespace BusinessLayer0
                 throw ex;
             }
         }
-            
+           
+        public int Add(Supplier supplier)
+        {
+            try
+            {
+                return supplierDL.Add(supplier);
+            }
+            catch (Exception ex)
+            {
+                throw ex;   // nem ngoai le len lop tren (giao dien) 
+            }
+        }
     }
 }

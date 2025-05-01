@@ -86,10 +86,17 @@ namespace DataLayer0
 
         }
 
-        public int MyExecuteNonQuery (string sql, CommandType type)
+        public int MyExecuteNonQuery (string sql, CommandType type, List<SqlParameter> parameters=null)
         {
             SqlCommand cmd = new SqlCommand(sql, cn);
             cmd.CommandType = type;
+            if (parameters != null)
+            {
+                foreach (SqlParameter parameter in parameters)
+                {
+                    cmd.Parameters.Add(parameter);  // lay tung parameter cho vao cmd
+                }
+            }
             try
             {
                 Connect();

@@ -43,19 +43,41 @@ namespace DataLayer0
 
         }
 
+        // CACH 1
+        //public int Add(Supplier supplier)
+        //{
+        //    string sql = "INSERT INTO Supplier " +
+        //        "VALUES ('" + supplier.Id + "', N'" + supplier.Name + "', N'" + supplier.Address + "')";
+        //    try
+        //    {
+        //        return (MyExecuteNonQuery(sql, CommandType.Text));
+        //    }
+        //    catch (SqlException ex)
+        //    {
+        //        throw ex;
+        //    }
+
+        //}
+
+        //CACH 2: STORED PROCEDURE 
         public int Add(Supplier supplier)
         {
-            string sql = "INSERT INTO Supplier " +
-                "VALUES ('" + supplier.Id + "', N'" + supplier.Name + "', N'" + supplier.Address + "')";
+            string procedure = "uspAddSupplier";
+            List<SqlParameter> parameters = new List<SqlParameter>();
+            parameters.Add(new SqlParameter("@id", supplier.Id));
+            parameters.Add(new SqlParameter("@name", supplier.Name));
+            parameters.Add(new SqlParameter("@address", supplier.Address));
+
+
             try
             {
-                return (MyExecuteNonQuery(sql, CommandType.Text));
+                return (MyExecuteNonQuery(procedure, CommandType.Text, parameters));
             }
-            catch (SqlException ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
-
         }
+
     }
 }
